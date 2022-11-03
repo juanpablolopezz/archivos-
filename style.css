@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://d1tq3fcx54x7ou.cloudfront.net/uploads/store/tenant_161/project/12848/image/large-1e0126e666ae27c014f15ec27ef946fa.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-x: center;
+    
+}
+.titulo-1{
+    background-color: rgb(252, 235, 0);
+    color: rgb(4, 0, 255);
+    font-size: 50px;
+}
+.titulo-2{
+    background-color: aqua;
+    font-size: 55px;
+}
+.button{
+    color: rgb(3, 0, 0);
+    background-color: blanchedalmond;
+    font-size: 35px;   
+    font-weight: 1000;
+}
+.body-new{
+    background-image: url(https://img.freepik.com/foto-gratis/ingredientes-cocinar-pasta-sobre-fondo-madera_23-2147925943.jpg?w=2000);
+    background-position-x: center;
+    background-size:400ch;
+}
+.button-2{
+    color: red;
+    background-color: aqua;
+    font-size: 30px;
+    font-weight: 1500;
+}
+tr  {
+    color:red;
+    font-size: 30px;
+    font-weight: 200;
+}
+th{
+    color:yellow;
+    font-size: 35px;
+    font-weight: 200;
+}
